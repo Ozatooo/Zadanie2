@@ -1,0 +1,36 @@
+[
+ {
+  string:aabb,
+  palindrom:NIE
+ }
+]
+[
+ {
+  string:abba,
+  palindrom:TAK
+ }
+]
+[
+ {
+  string:kobyla ma maly bok,
+  palindrom:TAK
+ }
+]
+[
+ {
+  string:cccc,
+  palindrom:TAK
+ }
+]
+[
+ {
+  string:1221,
+  palindrom:TAK
+ }
+]
+[
+ {
+  string:1211,
+  palindrom:NIE
+ }
+]
